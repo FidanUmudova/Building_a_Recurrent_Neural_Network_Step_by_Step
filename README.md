@@ -4,7 +4,7 @@ This repository contains implementations of various Recurrent Neural Network (RN
 
 ---
 
-## 📂 Project Structure & Exercises
+##  Project Structure & Exercises
 
 The project covers 8 core exercises focusing on building sequence models step-by-step:
 
